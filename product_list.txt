@@ -1,0 +1,22 @@
+Bismillah 
+Insha allah complete the following
+
+1) collab edit clone
+1) slack clone 
+  1) collab edit included
+  1) run code in slack 
+1) material /link share in 7thsky
+1) micro video   market place in 7thsky 
+1) mind map for student data
+1) google login 
+   save to google drive
+      every student have
+         folder
+           code sub folder
+           assignment sub folder
+1) chrome plugin 
+1)  desktop app 7thsky app   
+   electron
+1) save all content in github        
+1) language indepedant concept section
+   
