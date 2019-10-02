@@ -19,4 +19,5 @@ Insha allah complete the following
    electron
 1) save all content in github        
 1) language indepedant concept section
+1) link share platform
    
